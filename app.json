@@ -6,7 +6,7 @@
         "telegram",
         "github"
     ],
-    "repository": "https://github.com/pokurt/GitGram",
+    "repository": "https://github.com/MYou-Node/GitGramMYOUM",
     "website": "https://github.com/pokurt/GitGram",
     "success_url": "https://t.me/GitGramChat",
     "stack": "container",
